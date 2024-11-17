@@ -5,3 +5,4 @@ last line changed locally
 Line 5 was added
 Add line 6
 New line was added in new branch
+Additional line was added in new branch
