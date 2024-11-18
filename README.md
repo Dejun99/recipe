@@ -13,3 +13,5 @@ Additional line was added in new branch
 2. Butter
 3. Garlic
 
+My favorite recipe is **Steak**. <br/>
+<img src="recipe.png" width="300">
