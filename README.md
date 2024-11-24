@@ -14,4 +14,4 @@ Additional line was added in new branch
 3. Garlic
 
 My favorite recipe is **Steak**. <br/>
-<img src="recipe.png" width="300">
+<img src="Recipe.png" width="300">
